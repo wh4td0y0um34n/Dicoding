@@ -1,0 +1,39 @@
+#inprogress {
+    border-style: double;
+    border-width: 10px;
+    margin: 10vh 10vw;
+    text-align: justify;
+}
+
+#project-keyword {
+    margin-top: 20px;
+}
+
+#keyword {
+    background-color: #fdd935;
+    display: inline;
+    border-radius: 2em;
+    padding: 10px;
+    border-style: solid;
+    border-color: #000000;
+}
+
+#keyword:hover {
+    background-color: #fdd935;
+    border-style: solid;
+    border-color: #000000;
+}
+
+#progress-bar {
+    background-color: #fdd935;
+    width: 100%;
+    height: 30px;
+    border-radius: 20em;
+}
+
+#progress-stick {
+    width: 30%;
+    height: 100%;
+    background-color: #fdd935;
+    border-radius: inherit;
+}

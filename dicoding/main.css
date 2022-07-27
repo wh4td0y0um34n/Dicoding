@@ -1,0 +1,26 @@
+#main {
+    height: 100vh;
+    background-image: url('agung.png');
+    background-size: auto 90%;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+}
+
+#main #introduce {
+    position: absolute;
+    bottom: 2.5%;
+    left: 5%;
+    margin: 0;
+}
+
+#introduce h1 {
+    font-size: 100px;
+    font-family: 'Bebas Neue', cursive;
+    margin: 0;
+}
+
+#introduce h2 {
+    font-size: 4vw;
+    margin: 0;
+}

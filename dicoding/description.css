@@ -1,0 +1,15 @@
+#description {
+    border-style: double;
+    border-width: 10px;
+    margin: 10vh 10vw;
+    text-align: justify;
+}
+
+#card {
+    padding: 2vh 2vw;
+}
+
+#description #stats {
+    display: flex;
+    justify-content: center;
+}
